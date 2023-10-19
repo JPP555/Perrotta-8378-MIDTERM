@@ -17587,16 +17587,8 @@ MonoBehaviour:
   m_VersionIndex: 15178
   m_IsSelectable: 1
   m_SelectedFaces: 
-  m_SelectedEdges:
-  - a: 111
-    b: 112
-  - a: 107
-    b: 108
-  - a: 103
-    b: 104
-  - a: 99
-    b: 100
-  m_SelectedVertices: 6f000000700000006b0000006c00000067000000680000006300000064000000
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &1960151629
 Transform:
   m_ObjectHideFlags: 0
@@ -17837,10 +17829,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Destination","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 2088908203}
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!136 &2002131336
 CapsuleCollider:
   m_ObjectHideFlags: 0
