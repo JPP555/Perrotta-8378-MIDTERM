@@ -8,6 +8,7 @@ TagManager:
   - Trap
   - Button
   - Ammo
+  - Enemy
   layers:
   - Default
   - TransparentFX
